@@ -1,0 +1,5 @@
+우분투 열고
+
+cd "/mnt/c/Users/DANA07/Desktop/자막툴"
+source .venv/bin/activate
+streamlit run app.py
